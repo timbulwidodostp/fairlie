@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'fairlie': Nonlinear decomposition of binary outcome Use fairlie With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f Nonlinear Decomposition Code – Robert Fairlie.pdf
+f Nonlinear Decomposition Fairlie.pdf
+f fairlie.ado
+f fairlie.hlp
+f finaldecomp00.dta
+f homecomp.dta
